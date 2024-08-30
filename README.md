@@ -1,2 +1,2 @@
 # pga32_trial
-Treial for azure app
+Trial for azure app using IRIS Model
